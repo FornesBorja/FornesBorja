@@ -14,5 +14,5 @@ I am eager to take on new challenges and opportunities. 🏆
 
 Dont hesitate in <strong>contact</strong> me if you have some interesting project to work on. <br>
 
-<a href="https://www.linkedin.com/in/fornesborja" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>   <a href="https://www.github.com/FornesBorja" target="blank"> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/fornesb" target="blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>   <a href="https://www.github.com/FornesBorja" target="blank"> ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 
